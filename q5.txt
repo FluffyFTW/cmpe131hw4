@@ -1,0 +1,5 @@
+    1.no, the a variable is being called by value, and not by refrence because you are calling an int as a parameter
+    
+    2.Yes, when calling an array as a parameter, the array will be called by refrence
+    
+    3.They change because an array is being called by refrence, while an int will be called by value. Calling by refrence will change the parameter being called.
